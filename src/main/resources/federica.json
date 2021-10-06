@@ -1,0 +1,39 @@
+{
+  "nombre": "IES Federica Montensy",
+  "grupos": [
+    {
+      "titulo": "DAM",
+      "curso": 2,
+      "letra": "G",
+      "alumnos": [
+        {
+          "nif": "2154542",
+          "nombre": "Pepa",
+          "apellidos": "Pig"
+        },
+        {
+          "nif": "215453432",
+          "nombre": "George",
+          "apellidos": "Pig"
+        }
+      ]
+    },
+    {
+      "titulo": "DAM",
+      "curso": 1,
+      "letra": "J",
+      "alumnos": [
+        {
+          "nif": "21545432",
+          "nombre": "Sr Pato",
+          "apellidos": ""
+        },
+        {
+          "nif": "215453432",
+          "nombre": "Eli",
+          "apellidos": "Elefanta"
+        }
+      ]
+    }
+  ]
+}
